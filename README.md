@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Ponmugi
 
-<!--
-**Ponmugi/Ponmugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Projects
+- **Kurtis Store (React E-Commerce App)**  
+  👉 https://github.com/Ponmugi/kurtis-store-react
+
+### 🎯 Currently
+- Improving React skills
+- Building frontend projects
+- Looking for remote / entry-level opportunities
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- GitHub: https://github.com/Ponmugi
