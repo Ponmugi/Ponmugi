@@ -18,5 +18,5 @@ Frontend Developer passionate about building clean, responsive, and user-friendl
 - Looking for remote / entry-level opportunities
 
 ### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn: www.linkedin.com/in/ponmugi-kumaresan-4a3b9b256
 - GitHub: https://github.com/Ponmugi
